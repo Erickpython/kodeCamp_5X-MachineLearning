@@ -207,6 +207,6 @@ For questions or discussions about the course material, feel free to open an iss
 
 ---
 
-**Last Updated:** December 2024  
+**Last Updated:** December 2025  
 **Status:** 🚀 In Progress - Week 1 onwards  
 **License:** MIT
